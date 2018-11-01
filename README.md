@@ -19,6 +19,10 @@
 ## اعضای تیم ترجمه
 * ابراهیم ([ebraminio@](https://github.com/ebraminio))
 * علی نوروزی ([anio@](https://github.com/anio))
+* آرمان رحیمی ([armanatory@](https://github.com/armanatory))
+* علی سواری ([AliSawari@](https://github.com/AliSawari))
+* محسن اسماعیلی ([m-esm@](https://github.com/m-esm))
+* بهراد ([behrad@](https://github.com/behrad))
 
 ## مجوز
 * [ام‌آی‌تی](https://tldrlegal.com/license/mit-license)
